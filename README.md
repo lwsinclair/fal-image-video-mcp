@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ramborogers-fal-image-video-mcp-badge.png)](https://mseep.ai/app/ramborogers-fal-image-video-mcp)
+
 # FAL Image/Video MCP Server 🎨🎬
 
 > **High-performance MCP server for FAL AI image and video generation with automatic downloads**
